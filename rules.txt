@@ -41,23 +41,22 @@ Reselling in-game items for real money is not allowed and will result in a perma
 "God checking" staff members is considered RDM if it's in a sit.
 
 
-
 Adverts
 
 Do not use multi-adverts.
 You must advert before doing these actions:
 
-•   Raiding
-•   Mugging
-•   Kidnapping
-•   Carjacking/hacking
-•   Bank Raids
-•   PD Raids
-•   Countering
-•   Hits (hit accepted/complete)
-•   Terror
-•   KKK Sacrifice/Killing
-•   Warns
+Raiding
+Mugging
+Kidnapping
+Carjacking/hacking
+Bank Raids
+PD Raids
+Countering
+Hits (hit accepted/complete)
+Terror
+KKK Sacrifice/Killing
+Warns
 
 
 
@@ -73,6 +72,7 @@ Do not place revenge hits (placing hits on someone because they've killed you)
 
 Building rules
 
+
 Do not have crouch bases.
 Do not build during raids.
 You cannot build on the top of roofs.
@@ -80,6 +80,7 @@ Do not abuse fading doors - e.g using keyboard buttons to open doors during a ra
 Only block off areas of the map when you have 4 people in your base or more, you can only block off a maximum of one district.
 Do not build in spawn.
 Do not build laggy bases.
+You must not place random textscreens on people's building / area.
 Do not build skybases, even if connected to a building.
 You must not use one-way props.
 Keypads must have a minimum 5 seconds hold length and must be clearly visible to players.
@@ -91,9 +92,8 @@ Fading door limit is 3 for an entrance but 5 for a base/group (printer fading do
 KOS signs must be clearly displayed at the front of your base.
 You must own all doors to a base to officially own the building.
 Do not have a KOS sign when you have a building sign one or the other.
-[NEW] If you have a building sign, you must not roleplay.
+If you have a building sign, you must not roleplay.
 Do not go inside someone's base while they are building. They are out of RP.
-
 
 
 Advert Rules
@@ -106,12 +106,13 @@ Cooldown for raiding is 10 minutes and 20 minutes for the same player/group.
 You cannot raid a hobo.
 You cannot mug a hobo.
 The max ransom of money you can ask for during a kidnap is 15k.
+You can only keep someone in a kidnap for a maximum of 10 minutes.
 The max amount of money you can ask for during a mug is 10k.
 Don't raid someone with a building sign.
+Raids can only last a maximum of 10 minutes.
 You cannot return to your base if you've died during a raid.
 You may go back to your base if the people that raided you adverted raid over.
 Terrorists may advert Terror and kill anyone in the space of 1 minute. This has a 15 minute cooldown.
-
 
 
 Job Specific Rules
@@ -140,4 +141,4 @@ You cannot shoot a car for evading arrest. You must make an attempt to stop it.
 You can only build inside PD as a mayor or if you have the mayor's permission.
 
 Mayor:
-You are only allowed to own a pistol.
+You are only allowed to own a pistol and weapons purchased from the store.
